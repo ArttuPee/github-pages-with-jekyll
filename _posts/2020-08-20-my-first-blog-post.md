@@ -1,4 +1,9 @@
-# Hello! Welcome to my blog.
+---
+title: "Welcome"
+date: 2020-08-20
+---
+
+# Hello! Welcome to my blog
 
 This is the first post and I'm just happy to be able to share it with you!
 
